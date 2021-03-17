@@ -1,0 +1,52 @@
+body {
+    background-image: url('Img/Fondo.jpg');
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 140px;
+    height: 70px;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+.form {
+    margin-right:  50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.name-input , .date-input {
+    width: 250px;
+    height: 30px;
+}
+
+.email-input , .id-input , .cell-input , .tell-input {
+    height: 30px;
+}
+
+.type-identification {
+    width: 250px;
+    height: 35px;
+}
+
+.table {
+    border: solid 3px;
+    margin: 0 auto;
+}
+
+.audio {
+    margin: 0 auto;
+    display: block;
+}
+
+.video{
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+
