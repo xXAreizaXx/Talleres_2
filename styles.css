@@ -125,10 +125,6 @@ main {
     transition: 1s;
 }
 
-.animation-div {
-    width: 147px;
-}
-
 .title {
     border-bottom: 2px solid;
     width: 255px;
